@@ -1,0 +1,14 @@
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/bin/Debug/net9.0/Task3
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/bin/Debug/net9.0/Task3.deps.json
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/bin/Debug/net9.0/Task3.runtimeconfig.json
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/bin/Debug/net9.0/Task3.dll
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/bin/Debug/net9.0/Task3.pdb
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/obj/Debug/net9.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/obj/Debug/net9.0/Task3.AssemblyInfoInputs.cache
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/obj/Debug/net9.0/Task3.AssemblyInfo.cs
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/obj/Debug/net9.0/Task3.csproj.CoreCompileInputs.cache
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/obj/Debug/net9.0/Task3.dll
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/obj/Debug/net9.0/refint/Task3.dll
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/obj/Debug/net9.0/Task3.pdb
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/obj/Debug/net9.0/Task3.genruntimeconfig.cache
+/home/victor/Документы/projects/HSE_prog/lab_1/Task3/obj/Debug/net9.0/ref/Task3.dll
